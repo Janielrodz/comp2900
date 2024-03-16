@@ -5,6 +5,6 @@ def promedio(lista_numeros):
         #Devuelve la suma de todos los elementos del arreglo sobre el largo del arreglo
     return suma / len(lista_numeros) 
 
-lista_numeros = [2, 4, 6, 8, 10] 
+lista_numeros = [10, 20, 30, 40, 50] 
 resultado = promedio(lista_numeros) #Se inicializa la función
 print(f"El promedio de la lista es de {resultado}") #Salida

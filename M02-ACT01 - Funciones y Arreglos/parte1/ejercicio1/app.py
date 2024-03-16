@@ -1,8 +1,6 @@
 def maximo (a, b): #funcion
-    
     if a > b: #condicion
         return a
-    
     else: 
         return b
         
